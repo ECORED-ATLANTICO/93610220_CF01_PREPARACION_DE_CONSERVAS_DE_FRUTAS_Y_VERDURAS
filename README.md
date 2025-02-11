@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/93610220_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/#/](https://ecoredsena-atlantico.github.io/93610220_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/#/)
+[https://ecored-atlantico.github.io/93610220_CF01_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/](https://ecored-atlantico.github.io/93610220_CF01_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/)
 
 #
 
