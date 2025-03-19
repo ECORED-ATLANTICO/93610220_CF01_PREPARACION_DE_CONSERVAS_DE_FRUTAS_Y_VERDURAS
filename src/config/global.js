@@ -263,8 +263,7 @@ export default {
         {
           nombre: 'Jairo Valencia Ebratt',
           cargo: 'Evaluador instruccional',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
       ],
     },
