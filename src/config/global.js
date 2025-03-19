@@ -248,8 +248,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de Línea de Producción',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
       ],
     },
@@ -273,22 +272,20 @@ export default {
       titulo: 'DISEÑO y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jesús Antonio Vecino Valero',
-          cargo: 'Diseñador web',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          nombre: 'Antonio Vecino Valero',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
         {
           nombre: 'Liborio De Jesús Castañeda Valencia',
           cargo: 'Desarrollador <em>full stack junior</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
         // {
         //   nombre: 'Nombre',
@@ -302,28 +299,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Maria Fernanda Morales Angulo',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico.',
         },
       ],
     },

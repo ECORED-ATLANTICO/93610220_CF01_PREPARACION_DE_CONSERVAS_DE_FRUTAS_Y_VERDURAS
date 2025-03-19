@@ -35,18 +35,11 @@
     #t_1_1.titulo-segundo
       .h2(data-aos="fade-right") 1.1 Diferencia entre frutas y verduras
 
-    .bg_img_2.mb-3
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12.mb-2
-          p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Los elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.mb-2
+        p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Los elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
 
-        .col-md-12.col-lg-10.mb-2
-        
-          .titulo-sexto.bg-11.mb-4
-            h5 Figura 1. 
-            span.text-dark Desarrollo de la planta
-          figure
-            img(src='@/assets/curso/temas/tema1/img_4.png', alt='Texto que describa la imagen').mx-auto
 
     .row.justify-content-center.align-items-center.mb-0
       .tarjeta--container.mb-2.row.justify-content-center.align-items-center.ordenar_tarjeta_lg
@@ -178,7 +171,7 @@
 
         .col-md-12.col-lg-10.mb-2
           .titulo-sexto.bg-11.mb-4
-            h5 Tabla 1. 
+            h5 Tabla 2. 
             span.text-dark Clasificación de las verduras
           
           .tabla-a.mb-0
@@ -308,7 +301,7 @@
       .row.justify-content-center.align-items-center.mb-3
         .col-lg-8.mb-2
           .titulo-sexto.bg-11.mb-4
-            h5 Figura 2. 
+            h5 Figura 1. 
             span.text-dark Vitaminas en las frutas y verduras 
 
           figure

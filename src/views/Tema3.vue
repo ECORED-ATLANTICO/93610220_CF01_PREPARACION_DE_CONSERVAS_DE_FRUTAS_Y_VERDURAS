@@ -47,7 +47,7 @@
               
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
-              h3 1975
+              h3 1795
               p Napoleón Bonaparte lanza un concurso ofreciendo un premio de 12,000 francos a quien encuentre un método para conservar alimentos por períodos prolongados.
           
             .col-md-5
@@ -333,7 +333,7 @@
 
       .col-lg-9.mb-3
         .titulo-sexto.bg-11.mb-4
-          h5 Figura 3. 
+          h5 Figura 2. 
           span.text-dark Partes de un frasco para conservas
 
         figure
@@ -350,7 +350,7 @@
             img(src='@/assets/curso/temas/tema3/img_27.png', alt='Texto que describa la imagen').mx-auto
         .col-lg-7.mb-3
           p.mb-2 Una de las ventajas más destacadas de los tarros de cristal es su transparencia, que permite visualizar el contenido sin necesidad de abrir y cerrar constantemente el envase. Asimismo, el sistema de cierre es sencillo y fácil de abrir, realizado manualmente sin la necesidad de máquinas, lo que lo hace muy efectivo.
-          p Uno de los cierres más comunes para los tarros de vidrio son las tapas metálicas tipo twist off, fabricadas en acero u hojalata y barnizadas en su exterior para ofrecer protección y estética. En la parte interna, se aplica un sellante neutro (polímero) que no contamina el producto que contiene el tarro. 
+          p Uno de los cierres más comunes para los tarros de vidrio son las tapas metálicas tipo <em>twist off</em>, fabricadas en acero u hojalata y barnizadas en su exterior para ofrecer protección y estética. En la parte interna, se aplica un sellante neutro (polímero) que no contamina el producto que contiene el tarro. 
         
         .col-lg-12.mb-2
           .cajon.bg-1.g_18.mb-3

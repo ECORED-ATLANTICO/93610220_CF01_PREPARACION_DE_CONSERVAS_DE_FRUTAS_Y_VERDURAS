@@ -112,7 +112,7 @@
               .tarjeta.bg-01.p-2
                 .row.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios fisiológicos: la postcosecha:
+                    h3.mb-2 Cambios fisiológicos: la poscosecha
                     p Al ser separadas de su planta madre, las frutas y verduras experimentan cambios físicos significativos. Uno de los cambios más notables es la alteración del color, especialmente en las frutas, que suelen tener colores vivos que tienden a oscurecerse con el tiempo. Además, se observan modificaciones en el tamaño y el peso, resultantes de la pérdida de agua que sufren al estar desconectadas de la planta.
                   
                   .col-md-8.col-xl-5.mb-3
@@ -122,7 +122,7 @@
               .tarjeta.bg-01.p-2
                 .row.ordenar_tarjeta.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios fisiologicos: la relación entre color y calidad en frutas y verduras:
+                    h3.mb-2 Cambios fisiologicos: la relación entre color y calidad en frutas y verduras
                     p Los cambios fisiológicos son procesos naturales que ocurren en las frutas y verduras durante su ciclo biológico. Uno de los indicadores más significativos de estos cambios es el color, que refleja el grado de madurez y la calidad del producto. Cuando una fruta o vegetal presenta decoloración u oscurecimiento, se sugiere que ha disminuido su calidad, lo que puede hacerla no apta para el consumo humano.
                   
                   .col-md-8.col-xl-5.mb-3
@@ -132,7 +132,7 @@
               .tarjeta.bg-01.p-2
                 .row.ordenar_tarjeta.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios metabólicos: deterioro:
+                    h3.mb-2 Cambios metabólicos: deterioro
                     p El deterioro en frutas y verduras resulta de las actividades metabólicas que ocurren después de la cosecha, momento en el cual se separan de la planta y su metabolismo comienza a cambiar, lo que acelera los procesos de degradación. Si el producto sufre algún daño físico, como la ruptura de su tejido, la degradación se intensifica. Por ejemplo, una fruta que normalmente se degrada en varios días puede llegar a deteriorarse completamente en cuestión de horas tras sufrir una perturbación física.
 
                   .col-md-8.col-xl-5.mb-3
@@ -142,7 +142,7 @@
               .tarjeta.bg-01.p-2
                 .row.ordenar_tarjeta.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios metabólicos: efectos de la pérdida de agua en la calidad de frutas y verduras:
+                    h3.mb-2 Cambios metabólicos: efectos de la pérdida de agua en la calidad de frutas y verduras
                     p La pérdida de agua tras la cosecha afecta la consistencia del tejido de frutas y verduras, lo que resulta en una disminución de su calidad sensorial. Esto se traduce en cambios negativos en su aroma, brillo y sabor. A medida que se activa el metabolismo de degradación, la velocidad de respiración del producto aumenta considerablemente, lo que lleva a un consumo acelerado de oxígeno. Este proceso provoca la pérdida de azúcares y otros compuestos esenciales que son cruciales para mantener el aroma y el sabor característicos de los alimentos.
                   
                   .col-md-8.col-xl-5.mb-3
